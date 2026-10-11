@@ -1,0 +1,134 @@
+﻿site,year,festival,phase,parameter,is_class_b,gap_reason,note,value_as_printed,source_page
+Khatlapura ghat,2023,Ganesh,during,Chromium,no,not_sampled,not sampled,_,26
+Khatlapura ghat,2023,Ganesh,during,Lead,no,not_sampled,not sampled,_,26
+Khatlapura ghat,2023,Ganesh,during,Zinc,no,not_sampled,not sampled,_,26
+Khatlapura ghat,2023,Ganesh,during,Copper,no,not_sampled,not sampled,_,26
+Khatlapura ghat,2023,Durga,during,BOD,yes,not_sampled,not sampled,_,59
+Bairagarh (Sant Hirdaram) kund,2025,Ganesh,pre,pH,yes,not_sampled,not sampled at this stage (*),*,28
+Bairagarh (Sant Hirdaram) kund,2025,Ganesh,pre,Total solids,no,not_sampled,not sampled,,28
+Bairagarh (Sant Hirdaram) kund,2025,Ganesh,pre,Dissolved solids,no,not_sampled,not sampled,,28
+Bairagarh (Sant Hirdaram) kund,2025,Ganesh,pre,Dissolved oxygen,yes,not_sampled,not sampled,,28
+Bairagarh (Sant Hirdaram) kund,2025,Ganesh,pre,BOD,yes,not_sampled,not sampled,,28
+Bairagarh (Sant Hirdaram) kund,2025,Ganesh,pre,COD,no,not_sampled,not sampled,,28
+Bairagarh (Sant Hirdaram) kund,2025,Ganesh,pre,Turbidity,no,not_sampled,not sampled,,28
+Bairagarh (Sant Hirdaram) kund,2025,Ganesh,pre,Conductivity,no,not_sampled,not sampled,,28
+Bairagarh (Sant Hirdaram) kund,2025,Ganesh,pre,Chromium,no,not_sampled,not sampled,,28
+Bairagarh (Sant Hirdaram) kund,2025,Ganesh,pre,Lead,no,not_sampled,not sampled,,28
+Bairagarh (Sant Hirdaram) kund,2025,Ganesh,pre,Zinc,no,not_sampled,not sampled,,28
+Bairagarh (Sant Hirdaram) kund,2025,Ganesh,pre,Copper,no,not_sampled,not sampled,,28
+Bairagarh (Sant Hirdaram) kund,2025,Ganesh,pre,Suspended solids,no,not_sampled,not sampled,,28
+Bairagarh (Sant Hirdaram) kund,2025,Ganesh,after,pH,yes,not_sampled,not sampled at this stage (**),**,28
+Bairagarh (Sant Hirdaram) kund,2025,Ganesh,after,Total solids,no,not_sampled,not sampled,,28
+Bairagarh (Sant Hirdaram) kund,2025,Ganesh,after,Dissolved solids,no,not_sampled,not sampled,,28
+Bairagarh (Sant Hirdaram) kund,2025,Ganesh,after,Dissolved oxygen,yes,not_sampled,not sampled,,28
+Bairagarh (Sant Hirdaram) kund,2025,Ganesh,after,BOD,yes,not_sampled,not sampled,,28
+Bairagarh (Sant Hirdaram) kund,2025,Ganesh,after,COD,no,not_sampled,not sampled,,28
+Bairagarh (Sant Hirdaram) kund,2025,Ganesh,after,Turbidity,no,not_sampled,not sampled,,28
+Bairagarh (Sant Hirdaram) kund,2025,Ganesh,after,Conductivity,no,not_sampled,not sampled,,28
+Bairagarh (Sant Hirdaram) kund,2025,Ganesh,after,Chromium,no,not_sampled,not sampled,,28
+Bairagarh (Sant Hirdaram) kund,2025,Ganesh,after,Lead,no,not_sampled,not sampled,,28
+Bairagarh (Sant Hirdaram) kund,2025,Ganesh,after,Zinc,no,not_sampled,not sampled,,28
+Bairagarh (Sant Hirdaram) kund,2025,Ganesh,after,Copper,no,not_sampled,not sampled,,28
+Bairagarh (Sant Hirdaram) kund,2025,Ganesh,after,Suspended solids,no,not_sampled,not sampled,,28
+Bairagarh (Sant Hirdaram) kund,2025,Durga,pre,pH,yes,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,pre,Total solids,no,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,pre,Dissolved solids,no,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,pre,Dissolved oxygen,yes,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,pre,BOD,yes,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,pre,COD,no,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,pre,Turbidity,no,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,pre,Conductivity,no,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,pre,Chromium,no,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,pre,Lead,no,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,pre,Zinc,no,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,pre,Copper,no,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,during,pH,yes,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,during,Total solids,no,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,during,Dissolved solids,no,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,during,Dissolved oxygen,yes,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,during,BOD,yes,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,during,COD,no,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,during,Turbidity,no,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,during,Conductivity,no,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,during,Chromium,no,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,during,Lead,no,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,during,Zinc,no,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,during,Copper,no,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,after,pH,yes,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,after,Total solids,no,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,after,Dissolved solids,no,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,after,Dissolved oxygen,yes,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,after,BOD,yes,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,after,COD,no,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,after,Turbidity,no,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,after,Conductivity,no,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,after,Chromium,no,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,after,Lead,no,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,after,Zinc,no,table_absent,No Durga 2025 table for this site in the source data,,
+Bairagarh (Sant Hirdaram) kund,2025,Durga,after,Copper,no,table_absent,No Durga 2025 table for this site in the source data,,
+Prempura ghat,2023,Durga,pre,BOD,yes,not_sampled,not sampled,_,60
+Prempura ghat,2023,Durga,during,pH,yes,not_sampled,not sampled,_,60
+Prempura ghat,2023,Durga,during,BOD,yes,not_sampled,not sampled,_,60
+Prempura ghat,2023,Durga,after,BOD,yes,not_sampled,not sampled,_,60
+Malikhedi kund,2025,Ganesh,pre,pH,yes,not_sampled,not sampled at this stage (*),*,29
+Malikhedi kund,2025,Ganesh,pre,Total solids,no,not_sampled,not sampled,,29
+Malikhedi kund,2025,Ganesh,pre,Dissolved solids,no,not_sampled,not sampled,,29
+Malikhedi kund,2025,Ganesh,pre,Dissolved oxygen,yes,not_sampled,not sampled,,29
+Malikhedi kund,2025,Ganesh,pre,BOD,yes,not_sampled,not sampled,,29
+Malikhedi kund,2025,Ganesh,pre,COD,no,not_sampled,not sampled,,29
+Malikhedi kund,2025,Ganesh,pre,Turbidity,no,not_sampled,not sampled,,29
+Malikhedi kund,2025,Ganesh,pre,Conductivity,no,not_sampled,not sampled,,29
+Malikhedi kund,2025,Ganesh,pre,Chromium,no,not_sampled,not sampled,,29
+Malikhedi kund,2025,Ganesh,pre,Lead,no,not_sampled,not sampled,,29
+Malikhedi kund,2025,Ganesh,pre,Zinc,no,not_sampled,not sampled,,29
+Malikhedi kund,2025,Ganesh,pre,Copper,no,not_sampled,not sampled,,29
+Malikhedi kund,2025,Ganesh,pre,Suspended solids,no,not_sampled,not sampled,,29
+Malikhedi kund,2025,Ganesh,after,pH,yes,not_sampled,not sampled at this stage (**),**,29
+Malikhedi kund,2025,Ganesh,after,Total solids,no,not_sampled,not sampled,,29
+Malikhedi kund,2025,Ganesh,after,Dissolved solids,no,not_sampled,not sampled,,29
+Malikhedi kund,2025,Ganesh,after,Dissolved oxygen,yes,not_sampled,not sampled,,29
+Malikhedi kund,2025,Ganesh,after,BOD,yes,not_sampled,not sampled,,29
+Malikhedi kund,2025,Ganesh,after,COD,no,not_sampled,not sampled,,29
+Malikhedi kund,2025,Ganesh,after,Turbidity,no,not_sampled,not sampled,,29
+Malikhedi kund,2025,Ganesh,after,Conductivity,no,not_sampled,not sampled,,29
+Malikhedi kund,2025,Ganesh,after,Chromium,no,not_sampled,not sampled,,29
+Malikhedi kund,2025,Ganesh,after,Lead,no,not_sampled,not sampled,,29
+Malikhedi kund,2025,Ganesh,after,Zinc,no,not_sampled,not sampled,,29
+Malikhedi kund,2025,Ganesh,after,Copper,no,not_sampled,not sampled,,29
+Malikhedi kund,2025,Ganesh,after,Suspended solids,no,not_sampled,not sampled,,29
+Malikhedi kund,2025,Durga,pre,pH,yes,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,pre,Total solids,no,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,pre,Dissolved solids,no,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,pre,Dissolved oxygen,yes,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,pre,BOD,yes,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,pre,COD,no,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,pre,Turbidity,no,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,pre,Conductivity,no,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,pre,Chromium,no,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,pre,Lead,no,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,pre,Zinc,no,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,pre,Copper,no,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,during,pH,yes,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,during,Total solids,no,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,during,Dissolved solids,no,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,during,Dissolved oxygen,yes,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,during,BOD,yes,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,during,COD,no,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,during,Turbidity,no,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,during,Conductivity,no,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,during,Chromium,no,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,during,Lead,no,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,during,Zinc,no,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,during,Copper,no,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,after,pH,yes,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,after,Total solids,no,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,after,Dissolved solids,no,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,after,Dissolved oxygen,yes,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,after,BOD,yes,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,after,COD,no,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,after,Turbidity,no,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,after,Conductivity,no,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,after,Chromium,no,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,after,Lead,no,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,after,Zinc,no,table_absent,No Durga 2025 table for this site in the source data,,
+Malikhedi kund,2025,Durga,after,Copper,no,table_absent,No Durga 2025 table for this site in the source data,,

@@ -1,0 +1,9 @@
+Source: bhopal dataset, 1524 rows
+Errors: 0  Warnings: 0
+
+
+Notes
+-----
+- Risk score and tiers are project-defined prioritisation heuristics for planning cleaning, aeration and testing. They are not an official CPCB or MPPCB risk classification. Readings are compared with CPCB Class B (outdoor bathing) limits for pH, dissolved oxygen and BOD only.
+- BDL/ND readings for dissolved oxygen or BOD are kept as censored (uncertain). The reports do not give detection limits, so they are not counted as a confirmed breach or a confirmed pass. They count as sampled for completeness and are left out of breach scoring.
+- Missing readings (not sampled, '_', '-', '*', '**', blank, or a whole table absent from the report) are never treated as clean. They lower data completeness and evidence confidence, not the risk score.

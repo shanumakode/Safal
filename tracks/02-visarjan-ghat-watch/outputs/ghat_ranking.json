@@ -1,0 +1,739 @@
+{
+  "notes": {
+    "heuristic": "Risk score and tiers are project-defined prioritisation heuristics for planning cleaning, aeration and testing. They are not an official CPCB or MPPCB risk classification. Readings are compared with CPCB Class B (outdoor bathing) limits for pH, dissolved oxygen and BOD only.",
+    "censored": "BDL/ND readings for dissolved oxygen or BOD are kept as censored (uncertain). The reports do not give detection limits, so they are not counted as a confirmed breach or a confirmed pass. They count as sampled for completeness and are left out of breach scoring.",
+    "missing": "Missing readings (not sampled, '_', '-', '*', '**', blank, or a whole table absent from the report) are never treated as clean. They lower data completeness and evidence confidence, not the risk score."
+  },
+  "class_b_limits": {
+    "pH": {
+      "criteria_parameter": "pH",
+      "limit": "6.5 to 8.5"
+    },
+    "Dissolved oxygen": {
+      "criteria_parameter": "Dissolved oxygen",
+      "limit": "at least 5 mg/l"
+    },
+    "BOD": {
+      "criteria_parameter": "BOD (5 days 20C)",
+      "limit": "at most 3 mg/l"
+    }
+  },
+  "weights": {
+    "year": {
+      "2025": 1.0,
+      "2024": 0.75,
+      "2023": 0.5
+    },
+    "festival": {
+      "Durga": 1.2,
+      "Ganesh": 1.0
+    },
+    "phase": {
+      "during": 1.0,
+      "after": 1.0,
+      "pre": 0.8
+    }
+  },
+  "ranking": [
+    {
+      "class_b_measured": 39,
+      "confirmed_breaches": 24,
+      "censored_readings": 0,
+      "risk_score": 0.7356,
+      "risk_tier": "High",
+      "risk_reasons": [
+        "Dissolved oxygen fell to 2 mg/l or below in 1 recent reading(s). Worst: Dissolved oxygen was 0 mg/l (Class B limit: at least 5 mg/l) during immersion, Ganesh 2025 [2025 report, page 28].",
+        "BOD was above 6 mg/l in the latest season sampled. Worst: BOD was 8 mg/l (Class B limit: at most 3 mg/l) during immersion, Ganesh 2025 [2025 report, page 28].",
+        "24 of 39 measured Class B readings breached the limit (DO below limit: 11/13, BOD above limit: 13/13, pH outside range: 0/13)."
+      ],
+      "worst_recent_do": 0.0,
+      "max_recent_bod": 14.0,
+      "breach_counts": {
+        "pH": [
+          0,
+          13
+        ],
+        "Dissolved oxygen": [
+          11,
+          13
+        ],
+        "BOD": [
+          13,
+          13
+        ]
+      },
+      "trend_label": "flat (2023 to 2024)",
+      "trend_by_year": {
+        "2023": {
+          "measured": 18,
+          "breaches": 11,
+          "breach_rate": 0.611,
+          "median_do": 2.1,
+          "median_bod": 9.1
+        },
+        "2024": {
+          "measured": 18,
+          "breaches": 11,
+          "breach_rate": 0.611,
+          "median_do": 4.15,
+          "median_bod": 8.1
+        },
+        "2025": {
+          "measured": 3,
+          "breaches": 2,
+          "breach_rate": 0.667,
+          "median_do": 0.0,
+          "median_bod": 8.0
+        }
+      },
+      "site": "Bairagarh (Sant Hirdaram) kund",
+      "rank": 1,
+      "class_b_taken": 39,
+      "class_b_expected": 54,
+      "class_b_completeness": 0.7222,
+      "all_param_taken": 166,
+      "all_param_expected": 228,
+      "all_param_completeness": 0.7281,
+      "class_b_gap_count": 15,
+      "absent_tables": [
+        "Durga 2025"
+      ],
+      "completeness_by_season": {
+        "Ganesh 2023": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Durga 2023": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Ganesh 2024": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Durga 2024": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Ganesh 2025": {
+          "class_b_taken": 3,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Durga 2025": {
+          "class_b_taken": 0,
+          "class_b_expected": 9,
+          "table_present": false
+        }
+      },
+      "confidence_level": "Low",
+      "confidence_reasons": [
+        "72% of expected pH/DO/BOD readings are available.",
+        "No pH/DO/BOD readings for Durga 2025 (latest year 2025)."
+      ],
+      "water_body": "Upper Lake",
+      "site_match_confidence": "high"
+    },
+    {
+      "class_b_measured": 54,
+      "confirmed_breaches": 23,
+      "censored_readings": 0,
+      "risk_score": 0.6142,
+      "risk_tier": "High",
+      "risk_reasons": [
+        "BOD was above 6 mg/l in the latest season sampled. Worst: BOD was 11.4 mg/l (Class B limit: at most 3 mg/l) during immersion, Durga 2025 [2025 report, page 65].",
+        "23 of 54 measured Class B readings breached the limit (DO below limit: 5/18, BOD above limit: 18/18, pH outside range: 0/18)."
+      ],
+      "worst_recent_do": 2.5,
+      "max_recent_bod": 11.6,
+      "breach_counts": {
+        "pH": [
+          0,
+          18
+        ],
+        "Dissolved oxygen": [
+          5,
+          18
+        ],
+        "BOD": [
+          18,
+          18
+        ]
+      },
+      "trend_label": "flat (2023 to 2025)",
+      "trend_by_year": {
+        "2023": {
+          "measured": 18,
+          "breaches": 8,
+          "breach_rate": 0.444,
+          "median_do": 5.0,
+          "median_bod": 7.3
+        },
+        "2024": {
+          "measured": 18,
+          "breaches": 7,
+          "breach_rate": 0.389,
+          "median_do": 6.55,
+          "median_bod": 10.4
+        },
+        "2025": {
+          "measured": 18,
+          "breaches": 8,
+          "breach_rate": 0.444,
+          "median_do": 6.25,
+          "median_bod": 5.9
+        }
+      },
+      "site": "Shahpura lake ghat",
+      "rank": 2,
+      "class_b_taken": 54,
+      "class_b_expected": 54,
+      "class_b_completeness": 1.0,
+      "all_param_taken": 228,
+      "all_param_expected": 228,
+      "all_param_completeness": 1.0,
+      "class_b_gap_count": 0,
+      "absent_tables": [],
+      "completeness_by_season": {
+        "Ganesh 2023": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Durga 2023": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Ganesh 2024": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Durga 2024": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Ganesh 2025": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Durga 2025": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        }
+      },
+      "confidence_level": "High",
+      "confidence_reasons": [
+        "High site-name match, near-complete pH/DO/BOD readings including the latest year, from a file spot-checked against the PDFs."
+      ],
+      "water_body": "Shahpura Lake",
+      "site_match_confidence": "high"
+    },
+    {
+      "class_b_measured": 54,
+      "confirmed_breaches": 19,
+      "censored_readings": 0,
+      "risk_score": 0.4859,
+      "risk_tier": "High",
+      "risk_reasons": [
+        "BOD was above 6 mg/l in the latest season sampled. Worst: BOD was 8 mg/l (Class B limit: at most 3 mg/l) during immersion, Durga 2025 [2025 report, page 64].",
+        "19 of 54 measured Class B readings breached the limit (DO below limit: 0/18, BOD above limit: 16/18, pH outside range: 3/18)."
+      ],
+      "worst_recent_do": 5.3,
+      "max_recent_bod": 22.0,
+      "breach_counts": {
+        "pH": [
+          3,
+          18
+        ],
+        "Dissolved oxygen": [
+          0,
+          18
+        ],
+        "BOD": [
+          16,
+          18
+        ]
+      },
+      "trend_label": "worsening (2023 to 2025)",
+      "trend_by_year": {
+        "2023": {
+          "measured": 18,
+          "breaches": 5,
+          "breach_rate": 0.278,
+          "median_do": 7.2,
+          "median_bod": 5.0
+        },
+        "2024": {
+          "measured": 18,
+          "breaches": 7,
+          "breach_rate": 0.389,
+          "median_do": 7.25,
+          "median_bod": 7.300000000000001
+        },
+        "2025": {
+          "measured": 18,
+          "breaches": 7,
+          "breach_rate": 0.389,
+          "median_do": 7.75,
+          "median_bod": 6.6
+        }
+      },
+      "site": "Hathaikheda dam / kund",
+      "rank": 3,
+      "class_b_taken": 54,
+      "class_b_expected": 54,
+      "class_b_completeness": 1.0,
+      "all_param_taken": 228,
+      "all_param_expected": 228,
+      "all_param_completeness": 1.0,
+      "class_b_gap_count": 0,
+      "absent_tables": [],
+      "completeness_by_season": {
+        "Ganesh 2023": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Durga 2023": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Ganesh 2024": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Durga 2024": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Ganesh 2025": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Durga 2025": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        }
+      },
+      "confidence_level": "High",
+      "confidence_reasons": [
+        "High site-name match, near-complete pH/DO/BOD readings including the latest year, from a file spot-checked against the PDFs."
+      ],
+      "water_body": "Hathaikheda dam",
+      "site_match_confidence": "high"
+    },
+    {
+      "class_b_measured": 39,
+      "confirmed_breaches": 20,
+      "censored_readings": 0,
+      "risk_score": 0.4411,
+      "risk_tier": "High",
+      "risk_reasons": [
+        "Dissolved oxygen fell to 2 mg/l or below in 1 recent reading(s). Worst: Dissolved oxygen was 0.6 mg/l (Class B limit: at least 5 mg/l) during immersion, Ganesh 2025 [2025 report, page 29].",
+        "20 of 39 measured Class B readings breached the limit (DO below limit: 9/13, BOD above limit: 11/13, pH outside range: 0/13)."
+      ],
+      "worst_recent_do": 0.6,
+      "max_recent_bod": 8.4,
+      "breach_counts": {
+        "pH": [
+          0,
+          13
+        ],
+        "Dissolved oxygen": [
+          9,
+          13
+        ],
+        "BOD": [
+          11,
+          13
+        ]
+      },
+      "trend_label": "worsening (2023 to 2024)",
+      "trend_by_year": {
+        "2023": {
+          "measured": 18,
+          "breaches": 7,
+          "breach_rate": 0.389,
+          "median_do": 5.8,
+          "median_bod": 6.699999999999999
+        },
+        "2024": {
+          "measured": 18,
+          "breaches": 11,
+          "breach_rate": 0.611,
+          "median_do": 4.3,
+          "median_bod": 6.699999999999999
+        },
+        "2025": {
+          "measured": 3,
+          "breaches": 2,
+          "breach_rate": 0.667,
+          "median_do": 0.6,
+          "median_bod": 5.8
+        }
+      },
+      "site": "Malikhedi kund",
+      "rank": 4,
+      "class_b_taken": 39,
+      "class_b_expected": 54,
+      "class_b_completeness": 0.7222,
+      "all_param_taken": 166,
+      "all_param_expected": 228,
+      "all_param_completeness": 0.7281,
+      "class_b_gap_count": 15,
+      "absent_tables": [
+        "Durga 2025"
+      ],
+      "completeness_by_season": {
+        "Ganesh 2023": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Durga 2023": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Ganesh 2024": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Durga 2024": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Ganesh 2025": {
+          "class_b_taken": 3,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Durga 2025": {
+          "class_b_taken": 0,
+          "class_b_expected": 9,
+          "table_present": false
+        }
+      },
+      "confidence_level": "Low",
+      "confidence_reasons": [
+        "72% of expected pH/DO/BOD readings are available.",
+        "No pH/DO/BOD readings for Durga 2025 (latest year 2025)."
+      ],
+      "water_body": "Kund",
+      "site_match_confidence": "high"
+    },
+    {
+      "class_b_measured": 54,
+      "confirmed_breaches": 24,
+      "censored_readings": 0,
+      "risk_score": 0.4093,
+      "risk_tier": "High",
+      "risk_reasons": [
+        "BOD was above 6 mg/l in the latest season sampled. Worst: BOD was 8.8 mg/l (Class B limit: at most 3 mg/l) during immersion, Durga 2025 [2025 report, page 64].",
+        "24 of 54 measured Class B readings breached the limit (DO below limit: 6/18, BOD above limit: 18/18, pH outside range: 0/18)."
+      ],
+      "worst_recent_do": 2.4,
+      "max_recent_bod": 8.8,
+      "breach_counts": {
+        "pH": [
+          0,
+          18
+        ],
+        "Dissolved oxygen": [
+          6,
+          18
+        ],
+        "BOD": [
+          18,
+          18
+        ]
+      },
+      "trend_label": "worsening (2023 to 2025)",
+      "trend_by_year": {
+        "2023": {
+          "measured": 18,
+          "breaches": 6,
+          "breach_rate": 0.333,
+          "median_do": 6.35,
+          "median_bod": 8.5
+        },
+        "2024": {
+          "measured": 18,
+          "breaches": 9,
+          "breach_rate": 0.5,
+          "median_do": 5.6,
+          "median_bod": 5.699999999999999
+        },
+        "2025": {
+          "measured": 18,
+          "breaches": 9,
+          "breach_rate": 0.5,
+          "median_do": 4.4,
+          "median_bod": 5.8
+        }
+      },
+      "site": "Rani Kamlapati ghat / Kamla Park kund",
+      "rank": 5,
+      "class_b_taken": 54,
+      "class_b_expected": 54,
+      "class_b_completeness": 1.0,
+      "all_param_taken": 228,
+      "all_param_expected": 228,
+      "all_param_completeness": 1.0,
+      "class_b_gap_count": 0,
+      "absent_tables": [],
+      "completeness_by_season": {
+        "Ganesh 2023": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Durga 2023": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Ganesh 2024": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Durga 2024": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Ganesh 2025": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Durga 2025": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        }
+      },
+      "confidence_level": "Medium",
+      "confidence_reasons": [
+        "Site name match is medium: the report names may refer to two different places."
+      ],
+      "water_body": "Lower Lake (as printed in Durga tables)",
+      "site_match_confidence": "medium"
+    },
+    {
+      "class_b_measured": 53,
+      "confirmed_breaches": 24,
+      "censored_readings": 0,
+      "risk_score": 0.3297,
+      "risk_tier": "Medium",
+      "risk_reasons": [
+        "18 confirmed breach(es) in 2024-2025. Largest: BOD was 8.4 mg/l (Class B limit: at most 3 mg/l) one week after immersion, Durga 2024 [2024 report, page 24].",
+        "24 of 53 measured Class B readings breached the limit (DO below limit: 8/18, BOD above limit: 15/17, pH outside range: 1/18)."
+      ],
+      "worst_recent_do": 4.0,
+      "max_recent_bod": 8.4,
+      "breach_counts": {
+        "pH": [
+          1,
+          18
+        ],
+        "Dissolved oxygen": [
+          8,
+          18
+        ],
+        "BOD": [
+          15,
+          17
+        ]
+      },
+      "trend_label": "flat (2023 to 2025)",
+      "trend_by_year": {
+        "2023": {
+          "measured": 17,
+          "breaches": 6,
+          "breach_rate": 0.353,
+          "median_do": 5.3,
+          "median_bod": 6.4
+        },
+        "2024": {
+          "measured": 18,
+          "breaches": 12,
+          "breach_rate": 0.667,
+          "median_do": 4.45,
+          "median_bod": 7.5
+        },
+        "2025": {
+          "measured": 18,
+          "breaches": 6,
+          "breach_rate": 0.333,
+          "median_do": 6.55,
+          "median_bod": 4.5
+        }
+      },
+      "site": "Khatlapura ghat",
+      "rank": 6,
+      "class_b_taken": 53,
+      "class_b_expected": 54,
+      "class_b_completeness": 0.9815,
+      "all_param_taken": 223,
+      "all_param_expected": 228,
+      "all_param_completeness": 0.9781,
+      "class_b_gap_count": 1,
+      "absent_tables": [],
+      "completeness_by_season": {
+        "Ganesh 2023": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Durga 2023": {
+          "class_b_taken": 8,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Ganesh 2024": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Durga 2024": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Ganesh 2025": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Durga 2025": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        }
+      },
+      "confidence_level": "High",
+      "confidence_reasons": [
+        "High site-name match, near-complete pH/DO/BOD readings including the latest year, from a file spot-checked against the PDFs."
+      ],
+      "water_body": "Lower Lake",
+      "site_match_confidence": "high"
+    },
+    {
+      "class_b_measured": 50,
+      "confirmed_breaches": 14,
+      "censored_readings": 0,
+      "risk_score": 0.1111,
+      "risk_tier": "Medium",
+      "risk_reasons": [
+        "13 confirmed breach(es) in 2024-2025. Largest: BOD was 6.8 mg/l (Class B limit: at most 3 mg/l) during immersion, Ganesh 2024 [2024 report, page 70].",
+        "14 of 50 measured Class B readings breached the limit (DO below limit: 3/18, BOD above limit: 9/15, pH outside range: 2/17)."
+      ],
+      "worst_recent_do": 3.9,
+      "max_recent_bod": 6.8,
+      "breach_counts": {
+        "pH": [
+          2,
+          17
+        ],
+        "Dissolved oxygen": [
+          3,
+          18
+        ],
+        "BOD": [
+          9,
+          15
+        ]
+      },
+      "trend_label": "worsening (2023 to 2025)",
+      "trend_by_year": {
+        "2023": {
+          "measured": 14,
+          "breaches": 1,
+          "breach_rate": 0.071,
+          "median_do": 5.95,
+          "median_bod": 1.5
+        },
+        "2024": {
+          "measured": 18,
+          "breaches": 7,
+          "breach_rate": 0.389,
+          "median_do": 6.35,
+          "median_bod": 3.3
+        },
+        "2025": {
+          "measured": 18,
+          "breaches": 6,
+          "breach_rate": 0.333,
+          "median_do": 6.25,
+          "median_bod": 4.6
+        }
+      },
+      "site": "Prempura ghat",
+      "rank": 7,
+      "class_b_taken": 50,
+      "class_b_expected": 54,
+      "class_b_completeness": 0.9259,
+      "all_param_taken": 224,
+      "all_param_expected": 228,
+      "all_param_completeness": 0.9825,
+      "class_b_gap_count": 4,
+      "absent_tables": [],
+      "completeness_by_season": {
+        "Ganesh 2023": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Durga 2023": {
+          "class_b_taken": 5,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Ganesh 2024": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Durga 2024": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Ganesh 2025": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        },
+        "Durga 2025": {
+          "class_b_taken": 9,
+          "class_b_expected": 9,
+          "table_present": true
+        }
+      },
+      "confidence_level": "High",
+      "confidence_reasons": [
+        "High site-name match, near-complete pH/DO/BOD readings including the latest year, from a file spot-checked against the PDFs."
+      ],
+      "water_body": "Upper Lake",
+      "site_match_confidence": "high"
+    }
+  ]
+}

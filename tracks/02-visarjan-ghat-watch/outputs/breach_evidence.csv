@@ -1,0 +1,149 @@
+﻿site,year,festival,phase,parameter,value,unit_assumed,limit_applied,severity,weight,value_as_printed,site_as_printed,site_match_confidence,source_report,source_page
+Khatlapura ghat,2023,Ganesh,after,BOD,11.2,mg/l,at most 3 mg/l,2.73333,0.5,11.2,"Khatlapura Visarjanghat, Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,26
+Bairagarh (Sant Hirdaram) kund,2023,Ganesh,during,Dissolved oxygen,4.5,mg/l,at least 5 mg/l,0.1,0.5,4.5,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,26
+Bairagarh (Sant Hirdaram) kund,2023,Ganesh,after,Dissolved oxygen,0.0,mg/l,at least 5 mg/l,1,0.5,0,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,26
+Bairagarh (Sant Hirdaram) kund,2023,Ganesh,pre,BOD,3.8,mg/l,at most 3 mg/l,0.266667,0.4,3.8,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,26
+Bairagarh (Sant Hirdaram) kund,2023,Ganesh,during,BOD,4.2,mg/l,at most 3 mg/l,0.4,0.5,4.2,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,26
+Bairagarh (Sant Hirdaram) kund,2023,Ganesh,after,BOD,10.0,mg/l,at most 3 mg/l,2.33333,0.5,10,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,26
+Prempura ghat,2023,Ganesh,during,pH,8.53,,6.5 to 8.5,0.06,0.5,8.53,"Prempura Visarjanghat, Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,26
+Rani Kamlapati ghat / Kamla Park kund,2023,Ganesh,pre,BOD,4.2,mg/l,at most 3 mg/l,0.4,0.4,4.2,"Rani kamlapati,kamla park,murti visarjan kund,Bhopal",medium,resources/Idol_immer._Report_23_CPCB.pdf,27
+Rani Kamlapati ghat / Kamla Park kund,2023,Ganesh,during,BOD,4.4,mg/l,at most 3 mg/l,0.466667,0.5,4.4,"Rani kamlapati,kamla park,murti visarjan kund,Bhopal",medium,resources/Idol_immer._Report_23_CPCB.pdf,27
+Rani Kamlapati ghat / Kamla Park kund,2023,Ganesh,after,BOD,9.2,mg/l,at most 3 mg/l,2.06667,0.5,9.2,"Rani kamlapati,kamla park,murti visarjan kund,Bhopal",medium,resources/Idol_immer._Report_23_CPCB.pdf,27
+Hathaikheda dam / kund,2023,Ganesh,during,pH,8.92,,6.5 to 8.5,0.84,0.5,8.92,"Hathaikheda visarjan kund, Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,27
+Hathaikheda dam / kund,2023,Ganesh,during,BOD,6.0,mg/l,at most 3 mg/l,1,0.5,6,"Hathaikheda visarjan kund, Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,27
+Hathaikheda dam / kund,2023,Ganesh,after,BOD,10.8,mg/l,at most 3 mg/l,2.6,0.5,10.8,"Hathaikheda visarjan kund, Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,27
+Malikhedi kund,2023,Ganesh,after,Dissolved oxygen,3.2,mg/l,at least 5 mg/l,0.36,0.5,3.2,"Maalikhedi visarjan kund, Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,27
+Malikhedi kund,2023,Ganesh,after,BOD,16.8,mg/l,at most 3 mg/l,3,0.5,16.8,"Maalikhedi visarjan kund, Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,27
+Shahpura lake ghat,2023,Ganesh,pre,BOD,6.4,mg/l,at most 3 mg/l,1.13333,0.4,6.4,"Murti visarjan ghat at Shahpura lake,Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,28
+Shahpura lake ghat,2023,Ganesh,during,BOD,8.4,mg/l,at most 3 mg/l,1.8,0.5,8.4,"Murti visarjan ghat at Shahpura lake,Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,28
+Shahpura lake ghat,2023,Ganesh,after,BOD,10.4,mg/l,at most 3 mg/l,2.46667,0.5,10.4,"Murti visarjan ghat at Shahpura lake,Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,28
+Hathaikheda dam / kund,2023,Durga,pre,BOD,4.0,mg/l,at most 3 mg/l,0.333333,0.48,4,"Hathaikheda dam (ghat),bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,59
+Hathaikheda dam / kund,2023,Durga,during,BOD,8.8,mg/l,at most 3 mg/l,1.93333,0.6,8.8,"Hathaikheda dam (ghat),bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,59
+Rani Kamlapati ghat / Kamla Park kund,2023,Durga,pre,BOD,8.8,mg/l,at most 3 mg/l,1.93333,0.48,8.8,Rani kamlapati visarjan ghat (lower lake),medium,resources/Idol_immer._Report_23_CPCB.pdf,59
+Rani Kamlapati ghat / Kamla Park kund,2023,Durga,during,BOD,8.4,mg/l,at most 3 mg/l,1.8,0.6,8.4,Rani kamlapati visarjan ghat (lower lake),medium,resources/Idol_immer._Report_23_CPCB.pdf,59
+Rani Kamlapati ghat / Kamla Park kund,2023,Durga,after,BOD,8.6,mg/l,at most 3 mg/l,1.86667,0.6,8.6,Rani kamlapati visarjan ghat (lower lake),medium,resources/Idol_immer._Report_23_CPCB.pdf,59
+Khatlapura ghat,2023,Durga,pre,Dissolved oxygen,4.5,mg/l,at least 5 mg/l,0.1,0.48,4.5,"Khatlapura visarjan ghat (Lower lake),Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,59
+Khatlapura ghat,2023,Durga,during,Dissolved oxygen,4.2,mg/l,at least 5 mg/l,0.16,0.6,4.2,"Khatlapura visarjan ghat (Lower lake),Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,59
+Khatlapura ghat,2023,Durga,after,Dissolved oxygen,4.4,mg/l,at least 5 mg/l,0.12,0.6,4.4,"Khatlapura visarjan ghat (Lower lake),Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,59
+Khatlapura ghat,2023,Durga,pre,BOD,6.4,mg/l,at most 3 mg/l,1.13333,0.48,6.4,"Khatlapura visarjan ghat (Lower lake),Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,59
+Khatlapura ghat,2023,Durga,after,BOD,7.8,mg/l,at most 3 mg/l,1.6,0.6,7.8,"Khatlapura visarjan ghat (Lower lake),Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,59
+Bairagarh (Sant Hirdaram) kund,2023,Durga,pre,Dissolved oxygen,0.0,mg/l,at least 5 mg/l,1,0.48,0,"Sant Hirdaram visarjan kund,Bairagarh(upper lake),Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,60
+Bairagarh (Sant Hirdaram) kund,2023,Durga,during,Dissolved oxygen,0.0,mg/l,at least 5 mg/l,1,0.6,0,"Sant Hirdaram visarjan kund,Bairagarh(upper lake),Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,60
+Bairagarh (Sant Hirdaram) kund,2023,Durga,after,Dissolved oxygen,4.2,mg/l,at least 5 mg/l,0.16,0.6,4.2,"Sant Hirdaram visarjan kund,Bairagarh(upper lake),Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,60
+Bairagarh (Sant Hirdaram) kund,2023,Durga,pre,BOD,9.2,mg/l,at most 3 mg/l,2.06667,0.48,9.2,"Sant Hirdaram visarjan kund,Bairagarh(upper lake),Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,60
+Bairagarh (Sant Hirdaram) kund,2023,Durga,during,BOD,9.0,mg/l,at most 3 mg/l,2,0.6,9,"Sant Hirdaram visarjan kund,Bairagarh(upper lake),Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,60
+Bairagarh (Sant Hirdaram) kund,2023,Durga,after,BOD,9.4,mg/l,at most 3 mg/l,2.13333,0.6,9.4,"Sant Hirdaram visarjan kund,Bairagarh(upper lake),Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,60
+Shahpura lake ghat,2023,Durga,pre,Dissolved oxygen,4.5,mg/l,at least 5 mg/l,0.1,0.48,4.5,"Murti-visarjan ghat at Shahpura lake,Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,60
+Shahpura lake ghat,2023,Durga,during,Dissolved oxygen,4.0,mg/l,at least 5 mg/l,0.2,0.6,4,"Murti-visarjan ghat at Shahpura lake,Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,60
+Shahpura lake ghat,2023,Durga,pre,BOD,6.4,mg/l,at most 3 mg/l,1.13333,0.48,6.4,"Murti-visarjan ghat at Shahpura lake,Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,60
+Shahpura lake ghat,2023,Durga,during,BOD,6.8,mg/l,at most 3 mg/l,1.26667,0.6,6.8,"Murti-visarjan ghat at Shahpura lake,Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,60
+Shahpura lake ghat,2023,Durga,after,BOD,7.8,mg/l,at most 3 mg/l,1.6,0.6,7.8,"Murti-visarjan ghat at Shahpura lake,Bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,60
+Malikhedi kund,2023,Durga,pre,Dissolved oxygen,4.6,mg/l,at least 5 mg/l,0.08,0.48,4.6,"Maalikhedi visarjan kund,bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,61
+Malikhedi kund,2023,Durga,during,Dissolved oxygen,4.3,mg/l,at least 5 mg/l,0.14,0.6,4.3,"Maalikhedi visarjan kund,bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,61
+Malikhedi kund,2023,Durga,pre,BOD,6.8,mg/l,at most 3 mg/l,1.26667,0.48,6.8,"Maalikhedi visarjan kund,bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,61
+Malikhedi kund,2023,Durga,during,BOD,6.8,mg/l,at most 3 mg/l,1.26667,0.6,6.8,"Maalikhedi visarjan kund,bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,61
+Malikhedi kund,2023,Durga,after,BOD,6.6,mg/l,at most 3 mg/l,1.2,0.6,6.6,"Maalikhedi visarjan kund,bhopal",high,resources/Idol_immer._Report_23_CPCB.pdf,61
+Hathaikheda dam / kund,2024,Durga,pre,pH,9.2,,6.5 to 8.5,1,0.72,9.2,"Hathaikheda dam (ghat), Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,23
+Hathaikheda dam / kund,2024,Durga,pre,BOD,7.4,mg/l,at most 3 mg/l,1.46667,0.72,7.4,"Hathaikheda dam (ghat), Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,23
+Hathaikheda dam / kund,2024,Durga,during,BOD,4.4,mg/l,at most 3 mg/l,0.466667,0.9,4.4,"Hathaikheda dam (ghat), Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,23
+Hathaikheda dam / kund,2024,Durga,after,BOD,4.6,mg/l,at most 3 mg/l,0.533333,0.9,4.6,"Hathaikheda dam (ghat), Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,23
+Rani Kamlapati ghat / Kamla Park kund,2024,Durga,pre,BOD,5.6,mg/l,at most 3 mg/l,0.866667,0.72,5.6,"Rani Kamlapati Visarjan Ghat (Lower Lake), Bhopal",medium,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,24
+Rani Kamlapati ghat / Kamla Park kund,2024,Durga,during,BOD,5.8,mg/l,at most 3 mg/l,0.933333,0.9,5.8,"Rani Kamlapati Visarjan Ghat (Lower Lake), Bhopal",medium,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,24
+Rani Kamlapati ghat / Kamla Park kund,2024,Durga,after,BOD,6.0,mg/l,at most 3 mg/l,1,0.9,6,"Rani Kamlapati Visarjan Ghat (Lower Lake), Bhopal",medium,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,24
+Khatlapura ghat,2024,Durga,during,Dissolved oxygen,4.5,mg/l,at least 5 mg/l,0.1,0.9,4.5,"Khatlapura Visarjan Ghat (Lower lake), Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,24
+Khatlapura ghat,2024,Durga,after,Dissolved oxygen,4.4,mg/l,at least 5 mg/l,0.12,0.9,4.4,"Khatlapura Visarjan Ghat (Lower lake), Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,24
+Khatlapura ghat,2024,Durga,pre,BOD,7.8,mg/l,at most 3 mg/l,1.6,0.72,7.8,"Khatlapura Visarjan Ghat (Lower lake), Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,24
+Khatlapura ghat,2024,Durga,during,BOD,8.0,mg/l,at most 3 mg/l,1.66667,0.9,8,"Khatlapura Visarjan Ghat (Lower lake), Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,24
+Khatlapura ghat,2024,Durga,after,BOD,8.4,mg/l,at most 3 mg/l,1.8,0.9,8.4,"Khatlapura Visarjan Ghat (Lower lake), Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,24
+Bairagarh (Sant Hirdaram) kund,2024,Durga,pre,Dissolved oxygen,4.2,mg/l,at least 5 mg/l,0.16,0.72,4.2,"Sant Hirdaram Visarjan Kund, Bairagarh (Upper Lake), Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,25
+Bairagarh (Sant Hirdaram) kund,2024,Durga,during,Dissolved oxygen,2.2,mg/l,at least 5 mg/l,0.56,0.9,2.2,"Sant Hirdaram Visarjan Kund, Bairagarh (Upper Lake), Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,25
+Bairagarh (Sant Hirdaram) kund,2024,Durga,after,Dissolved oxygen,2.4,mg/l,at least 5 mg/l,0.52,0.9,2.4,"Sant Hirdaram Visarjan Kund, Bairagarh (Upper Lake), Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,25
+Bairagarh (Sant Hirdaram) kund,2024,Durga,pre,BOD,6.0,mg/l,at most 3 mg/l,1,0.72,6,"Sant Hirdaram Visarjan Kund, Bairagarh (Upper Lake), Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,25
+Bairagarh (Sant Hirdaram) kund,2024,Durga,during,BOD,8.0,mg/l,at most 3 mg/l,1.66667,0.9,8,"Sant Hirdaram Visarjan Kund, Bairagarh (Upper Lake), Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,25
+Bairagarh (Sant Hirdaram) kund,2024,Durga,after,BOD,8.2,mg/l,at most 3 mg/l,1.73333,0.9,8.2,"Sant Hirdaram Visarjan Kund, Bairagarh (Upper Lake), Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,25
+Prempura ghat,2024,Durga,after,BOD,3.4,mg/l,at most 3 mg/l,0.133333,0.9,3.4,"Prempura ghat, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,25
+Shahpura lake ghat,2024,Durga,after,Dissolved oxygen,3.8,mg/l,at least 5 mg/l,0.24,0.9,3.8,"Murti-Visarjan Ghat At Shahpura Lake, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,26
+Shahpura lake ghat,2024,Durga,pre,BOD,10.8,mg/l,at most 3 mg/l,2.6,0.72,10.8,"Murti-Visarjan Ghat At Shahpura Lake, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,26
+Shahpura lake ghat,2024,Durga,during,BOD,11.2,mg/l,at most 3 mg/l,2.73333,0.9,11.2,"Murti-Visarjan Ghat At Shahpura Lake, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,26
+Shahpura lake ghat,2024,Durga,after,BOD,11.6,mg/l,at most 3 mg/l,2.86667,0.9,11.6,"Murti-Visarjan Ghat At Shahpura Lake, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,26
+Malikhedi kund,2024,Durga,pre,Dissolved oxygen,4.5,mg/l,at least 5 mg/l,0.1,0.72,4.5,"Maalikhedi Visarjan Kund, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,26
+Malikhedi kund,2024,Durga,during,Dissolved oxygen,4.1,mg/l,at least 5 mg/l,0.18,0.9,4.1,"Maalikhedi Visarjan Kund, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,26
+Malikhedi kund,2024,Durga,after,Dissolved oxygen,4.0,mg/l,at least 5 mg/l,0.2,0.9,4,"Maalikhedi Visarjan Kund, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,26
+Malikhedi kund,2024,Durga,pre,BOD,6.8,mg/l,at most 3 mg/l,1.26667,0.72,6.8,"Maalikhedi Visarjan Kund, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,26
+Malikhedi kund,2024,Durga,during,BOD,5.0,mg/l,at most 3 mg/l,0.666667,0.9,5,"Maalikhedi Visarjan Kund, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,26
+Malikhedi kund,2024,Durga,after,BOD,5.2,mg/l,at most 3 mg/l,0.733333,0.9,5.2,"Maalikhedi Visarjan Kund, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,26
+Khatlapura ghat,2024,Ganesh,during,pH,6.49,,6.5 to 8.5,0.02,0.75,6.49,"Khatlapura Visarjanghat, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,69
+Khatlapura ghat,2024,Ganesh,pre,Dissolved oxygen,4.3,mg/l,at least 5 mg/l,0.14,0.6,4.3,"Khatlapura Visarjanghat, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,69
+Khatlapura ghat,2024,Ganesh,during,Dissolved oxygen,4.0,mg/l,at least 5 mg/l,0.2,0.75,4,"Khatlapura Visarjanghat, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,69
+Khatlapura ghat,2024,Ganesh,after,Dissolved oxygen,4.6,mg/l,at least 5 mg/l,0.08,0.75,4.6,"Khatlapura Visarjanghat, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,69
+Khatlapura ghat,2024,Ganesh,pre,BOD,6.8,mg/l,at most 3 mg/l,1.26667,0.6,6.8,"Khatlapura Visarjanghat, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,69
+Khatlapura ghat,2024,Ganesh,during,BOD,7.2,mg/l,at most 3 mg/l,1.4,0.75,7.2,"Khatlapura Visarjanghat, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,69
+Khatlapura ghat,2024,Ganesh,after,BOD,6.2,mg/l,at most 3 mg/l,1.06667,0.75,6.2,"Khatlapura Visarjanghat, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,69
+Bairagarh (Sant Hirdaram) kund,2024,Ganesh,during,Dissolved oxygen,4.1,mg/l,at least 5 mg/l,0.18,0.75,4.1,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,69
+Bairagarh (Sant Hirdaram) kund,2024,Ganesh,after,Dissolved oxygen,4.2,mg/l,at least 5 mg/l,0.16,0.75,4.2,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,69
+Bairagarh (Sant Hirdaram) kund,2024,Ganesh,pre,BOD,4.2,mg/l,at most 3 mg/l,0.4,0.6,4.2,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,69
+Bairagarh (Sant Hirdaram) kund,2024,Ganesh,during,BOD,13.2,mg/l,at most 3 mg/l,3,0.75,13.2,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,69
+Bairagarh (Sant Hirdaram) kund,2024,Ganesh,after,BOD,14.0,mg/l,at most 3 mg/l,3,0.75,14,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,69
+Prempura ghat,2024,Ganesh,during,pH,8.55,,6.5 to 8.5,0.1,0.75,8.55,"Prempura Visarjanghat, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,70
+Prempura ghat,2024,Ganesh,pre,Dissolved oxygen,4.3,mg/l,at least 5 mg/l,0.14,0.6,4.3,"Prempura Visarjanghat, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,70
+Prempura ghat,2024,Ganesh,during,Dissolved oxygen,3.9,mg/l,at least 5 mg/l,0.22,0.75,3.9,"Prempura Visarjanghat, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,70
+Prempura ghat,2024,Ganesh,pre,BOD,3.2,mg/l,at most 3 mg/l,0.0666667,0.6,3.2,"Prempura Visarjanghat, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,70
+Prempura ghat,2024,Ganesh,during,BOD,6.8,mg/l,at most 3 mg/l,1.26667,0.75,6.8,"Prempura Visarjanghat, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,70
+Prempura ghat,2024,Ganesh,after,BOD,5.2,mg/l,at most 3 mg/l,0.733333,0.75,5.2,"Prempura Visarjanghat, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,70
+Rani Kamlapati ghat / Kamla Park kund,2024,Ganesh,pre,Dissolved oxygen,4.8,mg/l,at least 5 mg/l,0.04,0.6,4.8,"Rani Kamlapati, Kamla Park, Murti Visarjan Kund, Bhopal",medium,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,70
+Rani Kamlapati ghat / Kamla Park kund,2024,Ganesh,during,Dissolved oxygen,4.3,mg/l,at least 5 mg/l,0.14,0.75,4.3,"Rani Kamlapati, Kamla Park, Murti Visarjan Kund, Bhopal",medium,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,70
+Rani Kamlapati ghat / Kamla Park kund,2024,Ganesh,after,Dissolved oxygen,3.6,mg/l,at least 5 mg/l,0.28,0.75,3.6,"Rani Kamlapati, Kamla Park, Murti Visarjan Kund, Bhopal",medium,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,70
+Rani Kamlapati ghat / Kamla Park kund,2024,Ganesh,pre,BOD,4.8,mg/l,at most 3 mg/l,0.6,0.6,4.8,"Rani Kamlapati, Kamla Park, Murti Visarjan Kund, Bhopal",medium,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,70
+Rani Kamlapati ghat / Kamla Park kund,2024,Ganesh,during,BOD,5.0,mg/l,at most 3 mg/l,0.666667,0.75,5,"Rani Kamlapati, Kamla Park, Murti Visarjan Kund, Bhopal",medium,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,70
+Rani Kamlapati ghat / Kamla Park kund,2024,Ganesh,after,BOD,6.4,mg/l,at most 3 mg/l,1.13333,0.75,6.4,"Rani Kamlapati, Kamla Park, Murti Visarjan Kund, Bhopal",medium,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,70
+Hathaikheda dam / kund,2024,Ganesh,pre,BOD,7.2,mg/l,at most 3 mg/l,1.4,0.6,7.2,"Hathaikheda Visarjan Kund, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,71
+Hathaikheda dam / kund,2024,Ganesh,during,BOD,13.2,mg/l,at most 3 mg/l,3,0.75,13.2,"Hathaikheda Visarjan Kund, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,71
+Hathaikheda dam / kund,2024,Ganesh,after,BOD,22.0,mg/l,at most 3 mg/l,3,0.75,22,"Hathaikheda Visarjan Kund, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,71
+Malikhedi kund,2024,Ganesh,pre,Dissolved oxygen,4.8,mg/l,at least 5 mg/l,0.04,0.6,4.8,"Maalikhedi Visarjan Kund, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,71
+Malikhedi kund,2024,Ganesh,during,Dissolved oxygen,3.8,mg/l,at least 5 mg/l,0.24,0.75,3.8,"Maalikhedi Visarjan Kund, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,71
+Malikhedi kund,2024,Ganesh,pre,BOD,6.6,mg/l,at most 3 mg/l,1.2,0.6,6.6,"Maalikhedi Visarjan Kund, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,71
+Malikhedi kund,2024,Ganesh,during,BOD,6.8,mg/l,at most 3 mg/l,1.26667,0.75,6.8,"Maalikhedi Visarjan Kund, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,71
+Malikhedi kund,2024,Ganesh,after,BOD,8.4,mg/l,at most 3 mg/l,1.8,0.75,8.4,"Maalikhedi Visarjan Kund, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,71
+Shahpura lake ghat,2024,Ganesh,pre,BOD,5.8,mg/l,at most 3 mg/l,0.933333,0.6,5.8,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,72
+Shahpura lake ghat,2024,Ganesh,during,BOD,10.0,mg/l,at most 3 mg/l,2.33333,0.75,10,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,72
+Shahpura lake ghat,2024,Ganesh,after,BOD,6.8,mg/l,at most 3 mg/l,1.26667,0.75,6.8,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2024.pdf,72
+Khatlapura ghat,2025,Ganesh,pre,BOD,4.4,mg/l,at most 3 mg/l,0.466667,0.8,4.4,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,28
+Khatlapura ghat,2025,Ganesh,during,BOD,5.4,mg/l,at most 3 mg/l,0.8,1,5.4,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,28
+Khatlapura ghat,2025,Ganesh,after,BOD,5.2,mg/l,at most 3 mg/l,0.733333,1,5.2,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,28
+Bairagarh (Sant Hirdaram) kund,2025,Ganesh,during,Dissolved oxygen,0.0,mg/l,at least 5 mg/l,1,1,0,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,28
+Bairagarh (Sant Hirdaram) kund,2025,Ganesh,during,BOD,8.0,mg/l,at most 3 mg/l,1.66667,1,8,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,28
+Prempura ghat,2025,Ganesh,pre,BOD,4.8,mg/l,at most 3 mg/l,0.6,0.8,4.8,"Prempura Visarjanghat, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,28
+Prempura ghat,2025,Ganesh,during,BOD,4.8,mg/l,at most 3 mg/l,0.6,1,4.8,"Prempura Visarjanghat, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,28
+Rani Kamlapati ghat / Kamla Park kund,2025,Ganesh,pre,BOD,3.8,mg/l,at most 3 mg/l,0.266667,0.8,3.8,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,29
+Rani Kamlapati ghat / Kamla Park kund,2025,Ganesh,during,BOD,6.9,mg/l,at most 3 mg/l,1.3,1,6.9,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,29
+Rani Kamlapati ghat / Kamla Park kund,2025,Ganesh,after,BOD,4.8,mg/l,at most 3 mg/l,0.6,1,4.8,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,29
+Hathaikheda dam / kund,2025,Ganesh,during,pH,8.71,,6.5 to 8.5,0.42,1,8.71,"Hathaikheda visarjan kund, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,29
+Hathaikheda dam / kund,2025,Ganesh,pre,BOD,5.2,mg/l,at most 3 mg/l,0.733333,0.8,5.2,"Hathaikheda visarjan kund, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,29
+Hathaikheda dam / kund,2025,Ganesh,during,BOD,10.0,mg/l,at most 3 mg/l,2.33333,1,10,"Hathaikheda visarjan kund, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,29
+Hathaikheda dam / kund,2025,Ganesh,after,BOD,5.2,mg/l,at most 3 mg/l,0.733333,1,5.2,"Hathaikheda visarjan kund, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,29
+Malikhedi kund,2025,Ganesh,during,Dissolved oxygen,0.6,mg/l,at least 5 mg/l,0.88,1,0.6,"Maalikhedi visarjan kund, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,29
+Malikhedi kund,2025,Ganesh,during,BOD,5.8,mg/l,at most 3 mg/l,0.933333,1,5.8,"Maalikhedi visarjan kund, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,29
+Shahpura lake ghat,2025,Ganesh,pre,BOD,4.2,mg/l,at most 3 mg/l,0.4,0.8,4.2,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,30
+Shahpura lake ghat,2025,Ganesh,during,BOD,5.0,mg/l,at most 3 mg/l,0.666667,1,5,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,30
+Shahpura lake ghat,2025,Ganesh,after,BOD,4.8,mg/l,at most 3 mg/l,0.6,1,4.8,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,30
+Hathaikheda dam / kund,2025,Durga,pre,BOD,6.8,mg/l,at most 3 mg/l,1.26667,0.96,6.8,"Hathaikheda dam (ghat), Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,64
+Hathaikheda dam / kund,2025,Durga,during,BOD,8.0,mg/l,at most 3 mg/l,1.66667,1.2,8,"Hathaikheda dam (ghat), Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,64
+Hathaikheda dam / kund,2025,Durga,after,BOD,6.4,mg/l,at most 3 mg/l,1.13333,1.2,6.4,"Hathaikheda dam (ghat), Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,64
+Rani Kamlapati ghat / Kamla Park kund,2025,Durga,pre,Dissolved oxygen,2.5,mg/l,at least 5 mg/l,0.5,0.96,2.5,Rani kamlapati visarjan ghat (lower lake),medium,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,64
+Rani Kamlapati ghat / Kamla Park kund,2025,Durga,during,Dissolved oxygen,2.4,mg/l,at least 5 mg/l,0.52,1.2,2.4,Rani kamlapati visarjan ghat (lower lake),medium,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,64
+Rani Kamlapati ghat / Kamla Park kund,2025,Durga,after,Dissolved oxygen,2.6,mg/l,at least 5 mg/l,0.48,1.2,2.6,Rani kamlapati visarjan ghat (lower lake),medium,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,64
+Rani Kamlapati ghat / Kamla Park kund,2025,Durga,pre,BOD,6.8,mg/l,at most 3 mg/l,1.26667,0.96,6.8,Rani kamlapati visarjan ghat (lower lake),medium,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,64
+Rani Kamlapati ghat / Kamla Park kund,2025,Durga,during,BOD,8.8,mg/l,at most 3 mg/l,1.93333,1.2,8.8,Rani kamlapati visarjan ghat (lower lake),medium,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,64
+Rani Kamlapati ghat / Kamla Park kund,2025,Durga,after,BOD,4.8,mg/l,at most 3 mg/l,0.6,1.2,4.8,Rani kamlapati visarjan ghat (lower lake),medium,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,64
+Khatlapura ghat,2025,Durga,pre,BOD,4.4,mg/l,at most 3 mg/l,0.466667,0.96,4.4,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,64
+Khatlapura ghat,2025,Durga,during,BOD,4.6,mg/l,at most 3 mg/l,0.533333,1.2,4.6,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,64
+Khatlapura ghat,2025,Durga,after,BOD,3.1,mg/l,at most 3 mg/l,0.0333333,1.2,3.1,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,64
+Prempura ghat,2025,Durga,during,Dissolved oxygen,4.9,mg/l,at least 5 mg/l,0.02,1.2,4.9,"Prempura ghat, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,65
+Prempura ghat,2025,Durga,pre,BOD,4.4,mg/l,at most 3 mg/l,0.466667,0.96,4.4,"Prempura ghat, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,65
+Prempura ghat,2025,Durga,during,BOD,4.8,mg/l,at most 3 mg/l,0.6,1.2,4.8,"Prempura ghat, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,65
+Prempura ghat,2025,Durga,after,BOD,3.2,mg/l,at most 3 mg/l,0.0666667,1.2,3.2,"Prempura ghat, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,65
+Shahpura lake ghat,2025,Durga,pre,Dissolved oxygen,2.5,mg/l,at least 5 mg/l,0.5,0.96,2.5,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,65
+Shahpura lake ghat,2025,Durga,during,Dissolved oxygen,2.8,mg/l,at least 5 mg/l,0.44,1.2,2.8,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,65
+Shahpura lake ghat,2025,Durga,pre,BOD,6.8,mg/l,at most 3 mg/l,1.26667,0.96,6.8,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,65
+Shahpura lake ghat,2025,Durga,during,BOD,11.4,mg/l,at most 3 mg/l,2.8,1.2,11.4,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,65
+Shahpura lake ghat,2025,Durga,after,BOD,10.4,mg/l,at most 3 mg/l,2.46667,1.2,10.4,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,resources/Ganesh_and_Durga_visarjan_report-2025.pdf,65
