@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GhatWatch Bhopal</title>
+  <meta name="description" content="Ghat water-quality risk dashboard for Bhopal Municipal Corporation, before Durga visarjan.">
+  <meta name="theme-color" content="#04161a">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <div id="mock-banner" class="mock-banner" role="alert" hidden></div>
+
+  <header class="hero" id="hero">
+    <canvas id="hero-canvas" aria-hidden="true"></canvas>
+    <div class="hero-shade" aria-hidden="true"></div>
+    <div class="hero-bar">
+      <div class="brand"><span class="brand-mark" aria-hidden="true"></span>GhatWatch <span>Bhopal</span></div>
+      <div class="hero-controls">
+        <div class="seg-toggle" role="group" aria-label="Language / भाषा">
+          <button type="button" id="lang-en" aria-pressed="true">EN</button>
+          <button type="button" id="lang-hi" aria-pressed="false" lang="hi">हिं</button>
+        </div>
+        <button type="button" id="motion-btn" class="ghost-btn" aria-pressed="false">Motion</button>
+      </div>
+    </div>
+    <div class="hero-inner">
+      <p class="kicker" id="hero-kicker"></p>
+      <h1 id="hero-title"></h1>
+      <p class="hero-sub" id="hero-sub"></p>
+      <div class="hero-meta" id="hero-meta"></div>
+    </div>
+  </header>
+
+  <nav class="tabs" id="tabs" role="tablist" hidden></nav>
+
+  <main id="app" class="app">
+    <noscript><p class="section">This dashboard needs JavaScript. / इस डैशबोर्ड के लिए JavaScript चाहिए।</p></noscript>
+  </main>
+
+  <footer class="footer">
+    <p>GhatWatch · Track 2, Visarjan Ghat Watch · Data: MPPCB Ganesh &amp; Durga visarjan reports 2023–2025, CPCB water-quality criteria.</p>
+    <p>Readings are compared with CPCB Class B numbers. This tool does not claim health effects and "within limit" is not a safety certification.</p>
+  </footer>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
